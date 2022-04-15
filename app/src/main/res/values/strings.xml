@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Animation Fragment</string>
+    <string name="launch_animation_fragment">Launch Animation Fragment</string>
+    <string name="launch_animation">Launch Animation</string>
+</resources>
